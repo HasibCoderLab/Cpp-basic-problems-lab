@@ -3,7 +3,7 @@
 //               Topic: Solving Problems
 // ================================================
 
-// ===== 👉👉  🔹🔹 Question 1️⃣ : Calculate the area of a Circle (Unprofessional style example) =====
+// ===== 👉👉  🔹🔹 Question  : Calculate the area of a Circle (Unprofessional style example) =====
 #include <iostream>
 using namespace std;
 
@@ -16,7 +16,7 @@ int main()
     return 0;
 }
 
-// ===== 👉👉  🔹🔹 Question 1️⃣ : Calculate the area of a Circle (Professional style example 1) =====
+// ===== 👉👉  🔹🔹 Question  : Calculate the area of a Circle (Professional style example 1) =====
 #include <iostream>
 using namespace std;
 
@@ -28,7 +28,7 @@ int main()
     return 0;
 }
 
-// ===== 👉👉 🔹🔹 Question 1️⃣ : Calculate the area of a Circle (Professional style example 2) =====
+// ===== 👉👉 🔹🔹 Question : Calculate the area of a Circle (Professional style example 2) =====
 #include <iostream>
 using namespace std;
 

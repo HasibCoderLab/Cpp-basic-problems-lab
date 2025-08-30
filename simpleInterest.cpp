@@ -6,7 +6,7 @@
 
 
 
-// ===== 👉👉 🔹🔹 Question 2️⃣ Calculating simple interest
+// ===== 👉👉 🔹🔹 Question : Calculating simple interest
 
 #include <iostream>
 using namespace std;
